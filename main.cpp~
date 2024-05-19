@@ -1,0 +1,64 @@
+
+
+#include "run_functions.cpp"
+
+
+int main()
+{
+
+    GUI::print("------------------------------- TERMINAL BASED -------------------------------" , "\n\n");
+    GUI::print("difficulty : Impossible" , "\n\n");
+
+    playMultipleMatches();   
+
+    GUI::print("\n\n" , "THANKS FOR PLAYING!" , "\n\n");
+
+    return EXIT_SUCCESS;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

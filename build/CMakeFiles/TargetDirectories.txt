@@ -1,0 +1,3 @@
+/home/anfal/myprojects/MiniGame/TicTacToe/build/CMakeFiles/game.dir
+/home/anfal/myprojects/MiniGame/TicTacToe/build/CMakeFiles/edit_cache.dir
+/home/anfal/myprojects/MiniGame/TicTacToe/build/CMakeFiles/rebuild_cache.dir
